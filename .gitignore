@@ -3,6 +3,7 @@ pycache/
 *.py[cod]
 *$py.class
 practice.py
+.DS_Store
 
 # Environments
 venv/
